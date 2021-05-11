@@ -1,0 +1,11 @@
+# Git
+
+git init
+git config --global user.name "Takanori Shima"
+git config --global user.email "shima@gmail.com"
+
+git add .
+git commit -m "完成"
+git log
+
+# Github
